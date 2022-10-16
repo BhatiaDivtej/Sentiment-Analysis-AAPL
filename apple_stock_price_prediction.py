@@ -8,13 +8,6 @@ Original file is located at
 
 # Apple Stock Price Prediction Based on News and Historical Stock Price Data
 
-**Group Members:**
-
-
-1. BHATIA Divtej Singh
-2. YUEN Chi Ching
-3. Aimin Wang
-
 # 1. Import Libraries
 """
 
